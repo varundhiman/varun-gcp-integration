@@ -1,0 +1,7 @@
+{
+  "keyAlgorithm" : "KEY_ALG_RSA_2048",
+  "keyOrigin" : "GOOGLE_PROVIDED",
+  "name" : "projects/gcp-gfs-transportation-sandbox/serviceAccounts/transpro-reporting@gcp-gfs-transportation-sandbox.iam.gserviceaccount.com/keys/1fdbf6909baf90e8eb6d69a74fd6eae0d4d920ce",
+  "validAfterTime" : "2019-12-28T03:07:01Z",
+  "validBeforeTime" : "9999-12-31T23:59:59Z"
+}
